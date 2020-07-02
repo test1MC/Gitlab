@@ -12,8 +12,8 @@
     </TocEntry>
     <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/C-Procedure-Topics/Procedures.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
         <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/C-Procedure-Topics/Procedure1A.htm" />
-        <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/C-Procedure-Topics/Procedure2.htm" />
-        <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/C-Procedure-Topics/Procedure3.htm" />
+        <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/C-Procedure-Topics/Procedure2A.htm" />
+        <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/Procedure3.htm" />
     </TocEntry>
     <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/D-Reference/FAQs.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
     <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/D-Reference/Tips.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
