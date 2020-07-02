@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LingoProject TargetLanguage="es" xml:lang="es" SourceLanguage="en-us" FileFormatVersion="6" CreatedInVersion="11" flattenSnippets="false" SelectedTarget="" SourceControlBound="true" SourceControlProviderType="Git" ProjectGuid="f5a31e9f-bd05-45b7-8208-cbe71c37c360">
+    <ProjectFile Source="Target/Lingo-Gitlab.flprj" Target="Target/Lingo-Gitlab.flprj" />
+    <TMConnection Connection="LingoLocal88.db" ReadOnly="false" Type="StandAlone" />
+</LingoProject>
